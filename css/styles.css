@@ -1,0 +1,40 @@
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #e6e6ff;
+}
+
+.courier {
+	font-family: Courier;
+	font-size: 1.2em;
+	line-height: 1.25em;
+}
+
+img {
+	border: 1px solid black;
+}
+
+.img-1 {
+	border: none;
+	background-position: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1, h2 {
+	color: DodgerBlue;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
